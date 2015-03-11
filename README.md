@@ -44,7 +44,7 @@ Locale: {
 }
 **/
 var t = require('i18next').t,
-    Mustache = require('mustachejs');
+    Mustache = require('mustache');
 
 var lookup = require('i18n-lookup')(t, Mustache.render);
 
