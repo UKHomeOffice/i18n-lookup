@@ -1,6 +1,6 @@
 {
   "name": "i18n-lookup",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Utility node module for doing lookups from translation documents",
   "main": "index.js",
   "scripts": {
